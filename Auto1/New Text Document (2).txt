@@ -1,0 +1,3 @@
+set classpath=D:\BhanuPratap\uiAutomation\target\classes\com\test\automation;
+set classpath=C:\Users\Babu\.m2\*;
+java org.testng.TestNG TestNG.xml
